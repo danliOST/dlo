@@ -1,2 +1,2 @@
 # không gì cả
-#được lấy cảm húng từ RailgunDownloader hãy ghé chưa test và chưa fix hết :>
+#được lấy cảm hứng từ RailgunDownloader hãy ghé chưa test và chưa fix hết :>
